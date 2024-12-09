@@ -189,6 +189,7 @@
             Controls.Add(menuStrip1);
             Name = "Form1";
             Text = "Система автоматизации продаж путёвок";
+
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             groupBox2.ResumeLayout(false);
